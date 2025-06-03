@@ -1,7 +1,5 @@
 package empresa.dados;
 public class Funcionario {
-
-	//Exemplo da utilização de pacotes em Java
 	
 	String nome;
 	double salario;
