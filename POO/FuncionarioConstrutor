@@ -1,0 +1,29 @@
+public class Funcionario {
+	String nome;
+	String cargo;
+	int idade;
+
+	Funcionario(int idadeInit, String cargoInit, String nomeInit ) { // Sobrecarga de Construtores
+		nome = nomeInit;
+		cargo = cargoInit;
+		idade = idadeInit;
+	}
+
+	Funcionario(String nomeInit) {
+
+	}
+
+	Funcionario() { // Sobrecarga de Construtores
+	}
+
+	public static void main(String[] args) {
+
+		Funcionario funcionario = new Funcionario(20, "Desenvolvedor Jr", "Itallo");
+		
+
+		System.out.println("Nome: " + funcionario.nome);
+		System.out.println("Cargo: " + funcionario.cargo);
+		System.out.println("Idade: " + funcionario.idade);
+		
+	}
+}
