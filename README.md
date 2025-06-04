@@ -55,4 +55,7 @@ O repositório está organizado por temas e módulos de estudo, facilitando o ac
 
 Este projeto é de estudo individual, mas sugestões, correções ou dicas são sempre bem-vindas, e a medida que vou aprendendo irei atualizando!
 
-📎 [LinkedIn: itallo-edward](https://www.linkedin.com/in/itallo-edward/)  
+📎 [LinkedIn: itallo-edward](https://www.linkedin.com/in/itallo-edward/)
+📱 [Entrar em contato via WhatsApp](https://wa.me/5583999428262)
+📧 [Enviar e-mail](mailto:itallosilva767@gmail.com)
+
