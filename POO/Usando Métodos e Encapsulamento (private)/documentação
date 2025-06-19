@@ -1,0 +1,16 @@
+# 🛒 Exemplo de Encapsulamento em Java
+
+Este projeto simples em Java demonstra o conceito de **encapsulamento**, utilizando modificadores de acesso (`private` e `public`) com uma classe `Produto`.
+
+## 🧱 O que o código faz
+
+- Cria a classe `Produto` com atributos privados: `nome`, `preco` e `quantidadeEmEstoque`.
+- Inicializa os atributos via **construtor público**.
+- Exibe as informações do produto com um método.
+- A execução ocorre na classe `Main`, que instancia um produto e chama o método de exibição.
+
+## 📝 Tecnologias usadas
+
+- Java (console)
+- Programação Orientada a Objetos (POO)
+- Encapsulamento
