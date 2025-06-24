@@ -1,0 +1,14 @@
+## 📘 Exemplo: Passagem por Valor em Java
+
+Este projeto demonstra como funciona a passagem por valor usando tipos primitivos em Java.
+
+### 🧪 Descrição
+- Criamos um objeto `Funcionario` e passamos uma variável `double` como parâmetro.
+- Alterações feitas dentro do método `aumentarSalario(double aumento)` não afetam a variável original `d`.
+
+### 📌 Conceito-chave
+> Java passa **cópias de valores**. No caso de tipos primitivos, isso significa que qualquer alteração feita dentro de métodos **não modifica a variável original**.
+
+### 🛠️ Tecnologias
+- Java
+- Programação Orientada a Objetos
