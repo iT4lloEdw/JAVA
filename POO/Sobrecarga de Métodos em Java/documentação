@@ -1,0 +1,14 @@
+## 📘 Exemplo: Sobrecarga de Métodos em Java
+
+Este projeto demonstra o uso da sobrecarga de métodos na prática.
+
+### 🧪 Descrição
+- A classe `Funcionario` possui dois métodos `aumentarSalario` com parâmetros diferentes.
+- Dependendo do tipo passado (double ou int), o comportamento muda: aumento fixo ou aumento percentual.
+
+### 📌 Conceito-chave
+> A sobrecarga permite reutilizar o nome de um método, tornando o código mais legível e flexível.
+
+### 🛠️ Tecnologias
+- Java
+- Programação Orientada a Objetos
