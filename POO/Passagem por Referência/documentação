@@ -1,0 +1,14 @@
+## 📘 Exemplo: Passagem por Referência em Java
+
+Este projeto demonstra como funciona a passagem por referência em Java ao trabalhar com objetos.
+
+### 🧪 Descrição
+- Um objeto `Funcionario` é passado como argumento para o método `alterarQualquerSalario()`.
+- O método modifica diretamente o atributo `salario` do objeto, refletindo fora dele.
+
+### 📌 Conceito-chave
+> Java passa **objetos por valor da referência**. Isso permite que métodos modifiquem os dados do objeto original, mesmo que não possam trocar o objeto em si.
+
+### 🛠️ Tecnologias
+- Java
+- Programação Orientada a Objetos
