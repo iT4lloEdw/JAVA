@@ -1,0 +1,15 @@
+## 📘 Exemplo: Métodos Estáticos e Sobrecarga em Java
+
+Este exemplo demonstra como utilizar métodos estáticos em Java e como é possível aplicar a sobrecarga nesses métodos.
+
+### 🧪 Descrição
+- Dois métodos `exibirValor()` estão definidos com parâmetros diferentes (int e String).
+- O método apropriado é chamado automaticamente com base no tipo de argumento.
+
+### 📌 Conceitos abordados
+- Métodos estáticos
+- Sobrecarga de métodos
+- Tipos primitivos e objetos como argumentos
+
+### 🛠️ Tecnologias
+- Java
