@@ -1,0 +1,14 @@
+## 📘 Exemplo: Membros Estáticos em Java
+
+Este exemplo demonstra o uso de variáveis estáticas (de classe) em Java por meio de uma classe `Contador`.
+
+### 🧪 Descrição
+- A classe possui um atributo estático `contagem` que é incrementado no construtor.
+- Três objetos são instanciados e a contagem reflete corretamente o total de instâncias criadas.
+
+### 📌 Conceitos abordados
+- Variáveis estáticas (de classe)
+- Acesso a membros estáticos via `NomeDaClasse.variavel`
+
+### 🛠️ Tecnologias
+- Java
