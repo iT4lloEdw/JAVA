@@ -1,0 +1,18 @@
+## 📘 Exemplo: Variáveis e Métodos Estáticos em Java
+
+Este exemplo mostra como usar variáveis e métodos `static` em Java para simular um contador de alunos em uma sala de aula.
+
+### 🧪 O que é demonstrado
+- `static int totalAlunos`: variável de classe.
+- `adicionarAluno()`: método estático que incrementa a contagem.
+- `mostrarTotalAlunos()`: exibe a contagem total sem instanciar objetos.
+
+### 🚀 Execução
+No método `main`, três alunos são adicionados com chamadas diretas aos métodos estáticos e, ao final, o total é exibido:
+
+```java
+SalaDeAula.adicionarAluno();
+SalaDeAula.adicionarAluno();
+SalaDeAula.adicionarAluno();
+
+SalaDeAula.mostrarTotalAlunos();
